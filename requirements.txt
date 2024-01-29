@@ -1,0 +1,7 @@
+pyttsx
+selenium
+tkinter
+SpeechRecognition
+pyaudio
+gtts
+playaudio
